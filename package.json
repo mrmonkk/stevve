@@ -1,9 +1,19 @@
 {
+  "name": "stevve-backend",
+  "version": "1.0.0",
+  "description": "Stevve SaaS backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@paddle/paddle-node-sdk": "^3.6.0",
     "axios": "^1.13.4",
     "dotenv": "^17.2.4",
     "express": "^5.2.1",
     "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
