@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@paddle/paddle-node-sdk": "^3.6.0",
+    "axios": "^1.13.4",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}

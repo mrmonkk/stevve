@@ -1,0 +1,6 @@
+node_modules
+.env
+stevvve.db
+*.log
+.DS_Store
+npm-debug.log
